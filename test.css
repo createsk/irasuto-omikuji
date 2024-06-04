@@ -1,0 +1,58 @@
+
+#container {
+
+	width: 500px; color: #fff;
+	/* auto 自動 */
+	margin: 20px auto;
+	padding: 20px 100px 0px 100px;
+	background-color: #333;
+	/* align 整列する */
+	text-align: center;
+	
+	}
+	
+
+
+	
+  /* 占うに対しての2 */
+#btn1{ 
+	background-color: blue; border-radius: 15px;
+	float: left;
+     text-align: center; line-height: 50px;
+		width: 130px;
+		margin: 35px auto; block-size: 50px;
+		user-select: none;
+		cursor: pointer;
+
+		}
+		#btn2{
+			background-color: blue; border-radius: 15px;
+			float: left;
+		 text-align: center; line-height: 50px;
+			width: 130px;
+		margin: 35px auto; block-size: 50px;
+			user-select: none;
+			cursor: pointer;
+		
+
+		}
+
+
+		#result{ 
+		font-size: 50px; font-weight: bolder;
+	
+		}
+	
+		p{margin-top: 30px; }
+	
+		.irasuto{
+		 display: none;
+	
+			block-size: 180px;
+		 }
+	
+	.front{text-align: left; 
+		float: left;
+
+		/* margin-left: 200px; margin-top: 100px; */
+	}
